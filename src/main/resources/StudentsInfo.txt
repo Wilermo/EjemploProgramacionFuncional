@@ -1,0 +1,10 @@
+<Estudiante>
+Pau Peñuela
+<Notas>
+5.0
+4.5
+4.6
+3.9
+5.0
+</Notas>
+</Estudiante>

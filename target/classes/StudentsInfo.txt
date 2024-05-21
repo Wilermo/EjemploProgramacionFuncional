@@ -1,0 +1,19 @@
+<Estudiante>
+Pipe Arias
+<Notas>
+3.0
+4.5
+4.0
+2.3
+</Notas>
+</Estudiante>
+<Estudiante>
+Pau Peñuela
+<Notas>
+5.0
+4.5
+4.6
+3.9
+5.0
+</Notas>
+</Estudiante>
